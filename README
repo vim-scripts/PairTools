@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3560
+
+This is yet another auto-closing pair tools. All configurations are handled per filetype using a 'filetype'.vim file inside the user ftplugin directory.
+
+See the accompanying help file for more details and examples.
